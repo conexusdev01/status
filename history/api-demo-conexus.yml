@@ -1,7 +1,7 @@
 url: https://demo.conexusit.com/ServicioWebREST/Service.svc/Status
-status: down
-code: 404
-responseTime: 225
-lastUpdated: 2024-06-24T17:43:04.828Z
+status: up
+code: 200
+responseTime: 47
+lastUpdated: 2024-06-24T17:49:54.346Z
 startTime: 2024-05-24T17:53:41.361Z
 generator: Upptime <https://github.com/upptime/upptime>
