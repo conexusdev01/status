@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 45,
-    "timeDay": 24,
-    "timeWeek": 40,
-    "timeMonth": 45,
-    "timeYear": 45,
+    "time": 49,
+    "timeDay": 171,
+    "timeWeek": 58,
+    "timeMonth": 50,
+    "timeYear": 49,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.conexusit.com.ico",
     "slug": "api-demo-conexus",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 191,
-    "timeDay": 119,
-    "timeWeek": 199,
-    "timeMonth": 191,
-    "timeYear": 191,
-    "dailyMinutesDown": {
-      "2024-06-24": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 187,
+    "timeDay": 110,
+    "timeWeek": 188,
+    "timeMonth": 183,
+    "timeYear": 187,
+    "dailyMinutesDown": {}
   }
 ]
